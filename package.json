@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "workbox-sw": "^7.0.0"
+  },
+  "name": "pwa-text-editor",
+  "description": "https://codingartistweb.com/2022/04/rich-text-editor-with-javascript/",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
